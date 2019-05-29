@@ -1,0 +1,202 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 With Max-Q Design (ID=0x1ba1)
+    Vendor:   NVIDIA
+    VRAM:     8081 MB
+    Driver:   25.20.100.6444
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.710028 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 3c6c -> priority: 1 
+  Thread -> id: 2518 -> priority: 1 
+  Thread -> id: 2544 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.429680 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.243941 ms (FindLiveObjects: 0.024579 ms CreateObjectMapping: 0.014840 ms MarkObjects: 0.177623 ms  DeleteObjects: 0.008811 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.788752 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 0.655767 ms (FindLiveObjects: 0.069565 ms CreateObjectMapping: 0.023188 ms MarkObjects: 0.263420 ms  DeleteObjects: 0.298666 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: Multiple dialogs are not allowed!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Writing to disk
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.035360 ms
+
+Unloading 407 unused Assets to reduce memory usage. Loaded Objects now: 1037.
+Total: 3.344230 ms (FindLiveObjects: 0.063536 ms CreateObjectMapping: 0.032463 ms MarkObjects: 0.572289 ms  DeleteObjects: 2.675013 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.304231 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2071.
+Total: 1.167303 ms (FindLiveObjects: 0.107130 ms CreateObjectMapping: 0.027826 ms MarkObjects: 0.626550 ms  DeleteObjects: 0.404869 ms)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Scarlett\SelfDrivingCar\UdacityComputerVision\CarND-BehavioralCloning\beta_simulator_Data\Managed\System.Xml.dll (this message is harmless)
+5/29/2019 5:08:14 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:15 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:16 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:17 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+5/29/2019 5:08:18 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 UnloadTime: 1.533680 ms
+
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 1040.
+Total: 2.357796 ms (FindLiveObjects: 0.042202 ms CreateObjectMapping: 0.022260 ms MarkObjects: 0.607535 ms  DeleteObjects: 1.685332 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.332985 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2074.
+Total: 1.228521 ms (FindLiveObjects: 0.097391 ms CreateObjectMapping: 0.024579 ms MarkObjects: 0.710492 ms  DeleteObjects: 0.395594 ms)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5/29/2019 5:08:22 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:24 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:25 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:26 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:27 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:28 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+5/29/2019 5:08:29 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.551767 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 1040.
+Total: 2.375882 ms (FindLiveObjects: 0.065391 ms CreateObjectMapping: 0.020405 ms MarkObjects: 0.537506 ms  DeleteObjects: 1.752115 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
