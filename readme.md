@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: writeup_images/architecture.jpg "Architecture"
+[image1]: writeup_images/architecture.JPG "Architecture"
 [image2]: writeup_images/center.jpg "Center"
 [image3]: writeup_images/left.jpg "Left"
 [image4]: writeup_images/right.jpg "Right"
