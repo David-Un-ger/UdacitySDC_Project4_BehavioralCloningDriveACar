@@ -1,6 +1,6 @@
 # **Behavioral Cloning** 
 
-## Writeup 
+## Writeup / Readme
 
 
 ---
@@ -35,7 +35,7 @@ My project includes the following files:
 * train.ipynb containing the script to create and train the model
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network 
-* writeup.md summarizing the results
+* readme.md summarizing the results
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and the drive.py file and my model.h5 file, the car can be driven autonomously around the track by executing 
